@@ -15,7 +15,7 @@ This assignment is just for `classlist toggle` but I added some feature
 ## links
 GH rep: - [https://github.com/nozky/cpnt262-a1](https://github.com/nozky/cpnt262-a1)
 
-Live Demo: - []()
+Live Demo: - [CodePen](https://cdpn.io/nozky/debug/OJbgYzq/dGkXWjKyXQVA)
 
 
 ---

@@ -1,4 +1,4 @@
-'stric mode'
+'use strict';
 
 const hamburger = document.querySelector("header nav .hamburger");
 const menu = document.querySelector("header nav .menu");
